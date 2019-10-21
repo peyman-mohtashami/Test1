@@ -15,3 +15,7 @@ For running this app correctly, you should add these files under the correct pat
 Or if want to check another files copy the file to `Test1\bin\Debug\files` and rename it to `original.bin`
 
 Then run the application in debug mode.
+
+# Tests
+There is one unit test file for BinaryDecoder Class and function of decode according to assignment document.
+
